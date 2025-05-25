@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+:root {
+    --main-color: #f0b8f5;
+    --linear-color: linear-gradient(134deg, #eea3f8, #fdb7ff);
+
+    --text-900: #1c1d24;
+    --text-700: #6d6b6b;
+
+    --background-100: #faf5f9;
+    --background-50: #ffffff;
+}
+
